@@ -3,7 +3,9 @@ news_sentiment is a project that can be used to analyze the stock market sentime
 Two types of sentiments are obtained:
 
 1- Read News -> Analyse Sentiment -> Store Results
-    - Sentiment is analyzed using VADER (Valence Aware Dictionary and sEntiment Reasoner)
+<br>
+Sentiment is analyzed using VADER (Valence Aware Dictionary and sEntiment Reasoner)
+    
 2- Read Social Sentiment -> Store Results
 
 News and social Sentiemnt are obtained from Financial Modeling Prep (https://site.financialmodelingprep.com/)
